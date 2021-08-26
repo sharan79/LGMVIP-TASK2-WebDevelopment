@@ -1,0 +1,14 @@
+.app {
+  margin-left: 30%;
+  margin-top: 5%;
+}
+
+.copy {
+  margin-bottom: 0;
+}
+div img {
+  border-radius: 50%;
+}
+div input {
+  border-color: blueviolet;
+}
